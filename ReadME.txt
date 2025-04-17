@@ -4,6 +4,10 @@ Download the .html file and open it in your browser.
 
 To do so : 
 
+Click on the html file, and on the top right section of the page press the "Download raw" button.
+
+Then : 
+
 Right click (Windows) Control click (MacOs) --> Open with --> your browser
 
 OR
